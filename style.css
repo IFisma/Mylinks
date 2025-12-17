@@ -45,3 +45,13 @@ body{
 .gif{
     margin: 0%;
 }
+li{
+    margin: 30px;
+    display: flex;
+    justify-content: flex-end;
+    }
+    h1{
+        color:blueviolet;
+        text-decoration-line:underline;
+        font-family: 'Courier New', Courier, monospace;
+    }
