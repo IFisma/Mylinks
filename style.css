@@ -1,5 +1,5 @@
 body{
-    background-color: seashell;
+    background-color: grey;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -21,7 +21,7 @@ body{
     margin-bottom: 20px;
 }
 .links{
-    background-color:beige ;
+    background-color:white ;
     border: 1px solid #e5e7eb;
     border-radius: 8px;
     box-shadow: 0 6px 18px rgba(16,24,40,0.6);
