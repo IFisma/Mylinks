@@ -20,6 +20,9 @@ body{
     box-shadow: 0 6px 18px rgba(16,24,40,0.6);
     margin-bottom: 20px;
 }
+.paragrap{
+    color:blue;
+}
 .links{
     background-color:white ;
     border: 1px solid #e5e7eb;
