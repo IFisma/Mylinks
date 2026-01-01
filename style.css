@@ -68,6 +68,12 @@ li{
         justify-content:center;
         border-radius: 7px;
     }
+    .hover{
+        background-color: cadetblue;
+    }
+    span{
+        background-color: cadetblue;
+    }
     a{
         color:black;
         background-color: white;
