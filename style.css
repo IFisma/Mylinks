@@ -68,13 +68,9 @@ li{
         justify-content:center;
         border-radius: 7px;
     }
-    .hover{
-        background-color: cadetblue;
-    }
     span{
         padding: 2px;
         margin:5%;
-        background-color: cadetblue;
         display: flex;
         justify-content:center;
         border-radius: 7px;
