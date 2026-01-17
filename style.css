@@ -22,6 +22,9 @@ body{
 }
 .paragrap{
     color:blue;
+    .Blospo{
+        background-color: cadetblue;
+    }
 }
 .links{
     background-color:white ;
@@ -61,8 +64,8 @@ li{
     .hover :hover{
         padding: 2px;
         margin:5%;
-        background-color:black;
-        color:cadetblue;
+        background-color: cadetblue;
+        color:rgb(143, 240, 243);
         transition: 1.5s;
         display: flex;
         justify-content:center;
@@ -78,4 +81,7 @@ li{
     a{
         color:black;
         background-color: white;
+    }
+    .Blospo{
+        background-color: cadetblue;
     }
